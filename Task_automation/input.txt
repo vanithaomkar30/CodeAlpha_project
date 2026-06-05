@@ -1,0 +1,2 @@
+Welcome to the automation test.
+Feel free to contact support@example.com or admin@test.org for help!
